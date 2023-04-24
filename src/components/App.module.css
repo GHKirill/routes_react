@@ -1,0 +1,12 @@
+.link {
+  color: black;
+}
+.link.active {
+  color: orange;
+  background-color: blueviolet;
+}
+
+.navigation {
+  display: flex;
+  gap: 40px;
+}
